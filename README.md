@@ -12,7 +12,7 @@
 
 **"Tüm Müşteri Yorumları (91309 adet)"** dosyasında bir çevrimiçi kitap satış sitesinde yer alan 47 kitaba ait 91309 müşteri yorumu listelenmektedir.
 
-**"Çalışmada kullanılan 2100 yorum"** dosyası aşağıda referans verilen sempozyumda sunulan bildiride kullanılan, **"Tüm Müşteri Yorumları (91309 adet)"** dosyasından alınmış 25 kitaba ait 2100 müşteri yorumunu içermektedir. Çalışmada kullanılan bu yorumların yazım hataları düzeltilmiştir. Yorumlar, çalışmanın yazarları tarafından olumlu, nötr veya olumsuz olarak etiketlenmiştir. 2100 yorumun etiket dağılımı 700'ü olumlu, 700'ü olumsuz ve 700'ü nötr şeklindedir.
+**"Çalışmada kullanılan 2100 yorum"** dosyası aşağıda referans verilen sempozyumda sunulan bildiride kullanılan, "Tüm Müşteri Yorumları (91309 adet)" dosyasından alınmış 25 kitaba ait 2100 müşteri yorumunu içermektedir. Çalışmada kullanılan bu yorumların yazım hataları düzeltilmiştir. Yorumlar, çalışmanın yazarları tarafından olumlu, nötr veya olumsuz olarak etiketlenmiştir. 2100 yorumun etiket dağılımı 700'ü olumlu, 700'ü olumsuz ve 700'ü nötr şeklindedir.
 
 Bu veri kümesi **duygu analizi** çalışmalarında kullanılabilir.
 
