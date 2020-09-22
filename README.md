@@ -30,6 +30,6 @@ Veri kümesindeki örnek sayısı: 700 olumlu + 700 olumsuz + 700 nötr = 2100 m
 
 **Veri kümesi üzerinde yapılan çalışmaya dair yayın:**
 
-https://www.researchgate.net/publication/330351991_Turkce_Sifat_Sozlugu_ile_Duygu_Analizi
+IEEE Xplore: https://ieeexplore.ieee.org/document/8554005/
 
-
+ResearchGate: https://www.researchgate.net/publication/330351991_Turkce_Sifat_Sozlugu_ile_Duygu_Analizi
